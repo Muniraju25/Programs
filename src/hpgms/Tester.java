@@ -4,7 +4,7 @@ public class Tester {
   public static void main(String[] args) {
 	  reverseWithOutRevAriable();
 	  reverseWithOutLength();
-	  swapStringWithOutVar();
+	//  swapStringWithOutVar();
 }
   public static void reverseWithOutRevAriable()
   {
